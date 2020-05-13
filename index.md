@@ -1,40 +1,38 @@
 # Github Projects
 
-## bash-boilerplate
-![](assets/bash-boilerplate.jpg)
+## [bash-boilerplate](https://github.com/pforret/bash-boilerplate)
+[![](assets/bash-boilerplate.jpg)](https://github.com/pforret/bash-boilerplate)
 
-* COMPLETE
-	* sophisticated option parsing
-	* check for all required binaries first
-* EASY
-	* all code in 1 file - no dependencies
-	* distinguish between debug, log, warning and fatal error messages
+Quickly create new bash scripts, with option parsing, verbose mode, external programs check (CLI / bash)
 
-* repo: [bash-boilerplate](https://github.com/pforret/bash-boilerplate)
-* website: [pforret.github.io/bash-boilerplate/](http://pforret.github.io/bash-boilerplate/)
+## [gandi_deploy](https://github.com/pforret/gandi_deploy)
+[![](assets/gandi_deploy.jpg)](https://github.com/pforret/gandi_deploy)
 
-## mrtgobot
-![](assets/mrtgobot.jpg)
+Easy fast deploy to Gandi hosting via git workflow (CLI / bash)
 
-* repo: [mrtgobot](https://github.com/pforret/mrtgobot)
+## [crontask](https://github.com/pforret/crontask)
+[![](assets/crontask.jpg)](https://github.com/pforret/crontask)
 
-## gandi_deploy
-![](assets/gandi_deploy.jpg)
-* repo: [gandi_deploy](https://github.com/pforret/gandi_deploy)
+run cron jobs with logging, uptime through healthchecks.io, alerts via zapier (CLI / bash)
 
-## mrtg\_remote\_sensor
-![](assets/mrtg_remote_sensor.jpg)
+## [networkcheck](https://github.com/pforret/networkcheck)
+[![](assets/networkcheck.jpg)](https://github.com/pforret/networkcheck)
 
-* repo: [mrtg\_remote\_sensor](https://github.com/pforret/mrtg_remote_sensor)
+analyze network connection problems (CLI / bash)
+	
+## [mrtgobot](https://github.com/pforret/mrtgobot)
+[![](assets/mrtgobot.jpg)](https://github.com/pforret/mrtgobot)
 
-## winadmin
-![](assets/winadmin.jpg)
+Easy set-up of a MRTG stat chart server, with easy index/run/sftp sync (CLI / PHP)
 
-* [winadmin](https://github.com/pforret/WinAdmin)
+## [mrtg\_remote\_sensor](https://github.com/pforret/mrtg_remote_sensor)
+[![](assets/mrtg_remote_sensor.jpg)](https://github.com/pforret/mrtg_remote_sensor)
 
+Get system data like CPU, RAM, folder size in MRTG format from a remote web server (web / PHP)
 
+## [winadmin](https://github.com/pforret/WinAdmin)
+[![](assets/winadmin.jpg)](https://github.com/pforret/WinAdmin)
 
-# Websites
-* [blog.forret.com](https://blog.forret.com)
-* [toolstud.io](https://toolstud.io)
-* [nuuz.io](https://nuuz.io)
+Windows Sysadmin scripts for easy folder cleanup, cron and timer:
+waCron, waDate, waFTP, waNOCAPS, waRmZip, waTimer  (CLI / Windows cscript)
+
