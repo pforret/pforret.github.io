@@ -1,10 +1,14 @@
 # Github Projects
 
-## [bashew](https://github.com/pforret/bashew)
+## [bashew.sh](https://github.com/pforret/bashew)
 ![](https://github.com/pforret/bashew/raw/master/assets/bashew.png)
 
-## [semver](https://github.com/pforret/semver)
+bash script creator - from small stand-alone script to complex projects with CI/CD and testing
+
+## [semver.sh](https://github.com/pforret/semver)
 ![](https://github.com/pforret/semver/raw/master/semver.sh.png)
+
+get/set package version from git tags (Github/Bitbucket), composer.json (PHP), package.json (npm)
 
 ## [bash-boilerplate](https://github.com/pforret/bash-boilerplate)
 [![](assets/bash-boilerplate.jpg)](https://github.com/pforret/bash-boilerplate)
