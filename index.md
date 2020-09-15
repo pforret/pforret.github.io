@@ -1,5 +1,11 @@
 # Github Projects
 
+## [bashew](https://github.com/pforret/bashew)
+[![](https://github.com/pforret/bashew/raw/master/assets/bashew.png)
+
+## [semver](https://github.com/pforret/semver)
+[![](https://github.com/pforret/semver/raw/master/semver.sh.png)
+
 ## [bash-boilerplate](https://github.com/pforret/bash-boilerplate)
 [![](assets/bash-boilerplate.jpg)](https://github.com/pforret/bash-boilerplate)
 
