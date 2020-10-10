@@ -1,29 +1,50 @@
 # Github Projects
 
-## [bashew.sh](https://github.com/pforret/bashew)
-![](https://github.com/pforret/bashew/raw/master/assets/bashew.png)
+## [bashew](https://github.com/pforret/bashew)
+![pforret/bashew](https://raw.githubusercontent.com/pforret/bashew/master/assets/bashew.jpg)
+
+![](https://img.shields.io/github/languages/top/pforret/bashew)
+![](https://img.shields.io/github/v/release/pforret/bashew)
 
 bash script creator - from small stand-alone script to complex projects with CI/CD and testing
 
-## [semver.sh](https://github.com/pforret/semver)
-![](https://github.com/pforret/semver/raw/master/semver.sh.png)
+## [splashmark](https://github.com/pforret/splashmark)
+
+![](https://raw.githubusercontent.com/pforret/splashmark/master/splashmark.jpg)
+
+![](https://img.shields.io/github/languages/top/pforret/splashmark)
+![](https://img.shields.io/github/v/release/pforret/splashmark)
+
+ Download unsplash pics and resize/add effects/add attribution/watermark/... 
+ 
+## [setver](https://github.com/pforret/setver)
+![pforret/setver](https://raw.githubusercontent.com/pforret/setver/master/setver.jpg)
+
+![](https://img.shields.io/github/languages/top/pforret/setver)
+![](https://img.shields.io/github/v/release/pforret/setver)
 
 get/set package version from git tags (Github/Bitbucket), composer.json (PHP), package.json (npm)
 
-## [bash-boilerplate](https://github.com/pforret/bash-boilerplate)
-[![](assets/bash-boilerplate.jpg)](https://github.com/pforret/bash-boilerplate)
-
-Quickly create new bash scripts, with option parsing, verbose mode, external programs check (`bash`)
-
 ## [gandi_deploy](https://github.com/pforret/gandi_deploy)
-[![](assets/gandi_deploy.jpg)](https://github.com/pforret/gandi_deploy)
+![](https://raw.githubusercontent.com/pforret/gandi_deploy/master/gandi_deploy.jpg)]
 
-Easy fast deploy to Gandi hosting via git workflow (`bash`)
+![](https://img.shields.io/github/languages/top/pforret/gandi_deploy)
+![](https://img.shields.io/github/v/release/pforret/gandi_deploy)
+
+Easy fast deploy to Gandi Simple hosting via git workflow
+
+## [ghlookup](https://github.com/pforret/ghlookup)
+![](https://raw.githubusercontent.com/pforret/ghlookup/master/ghlookup.jpg)]
+
+![](https://img.shields.io/github/languages/top/pforret/ghlookup)
+![](https://img.shields.io/github/v/release/pforret/ghlookup)
+
+Get info on Github repositories via API in bash CLI 
 
 ## [crontask](https://github.com/pforret/crontask)
 [![](assets/crontask.jpg)](https://github.com/pforret/crontask)
 
-run cron jobs with logging, uptime through healthchecks.io, alerts via zapier (`bash`)
+run cron jobs with logging, uptime through healthchecks.io, alerts via zapier
 
 ## [networkcheck](https://github.com/pforret/networkcheck)
 [![](assets/networkcheck.jpg)](https://github.com/pforret/networkcheck)
