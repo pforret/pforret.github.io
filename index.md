@@ -10,7 +10,7 @@
 
 Repository of `basher install` compatible packages
 
-## [bashew](https://github.com/pforret/bashew)
+## [pforret/bashew](https://github.com/pforret/bashew)
 ![pforret/bashew](assets/bashew.jpg)
 
 [![basher install](https://img.shields.io/badge/basher-install-white?logo=gnu-bash&style=flat)](https://basher.gitparade.com/package/)
@@ -19,7 +19,7 @@ Repository of `basher install` compatible packages
 
 bash script creator - from small stand-alone script to complex projects with CI/CD and testing
 
-## [splashmark](https://github.com/pforret/splashmark)
+## [pforret/splashmark](https://github.com/pforret/splashmark)
 
 ![](assets/splashmark.jpg)
 
@@ -29,7 +29,7 @@ bash script creator - from small stand-alone script to complex projects with CI/
 
  Download unsplash pics and resize/add effects/add attribution/watermark/... 
  
-## [setver](https://github.com/pforret/setver)
+## [pforret/setver](https://github.com/pforret/setver)
 ![pforret/setver](assets/setver.jpg)
 
 [![basher install](https://img.shields.io/badge/basher-install-white?logo=gnu-bash&style=flat)](https://basher.gitparade.com/package/)
@@ -38,7 +38,7 @@ bash script creator - from small stand-alone script to complex projects with CI/
 
 get/set package version from git tags (Github/Bitbucket), composer.json (PHP), package.json (npm)
 
-## [gandi_deploy](https://github.com/pforret/gandi_deploy)
+## [pforret/gandi_deploy](https://github.com/pforret/gandi_deploy)
 ![](assets/gdeploy.jpg)]
 
 ![](https://img.shields.io/github/languages/top/pforret/gandi_deploy)
@@ -46,7 +46,7 @@ get/set package version from git tags (Github/Bitbucket), composer.json (PHP), p
 
 Easy fast deploy to Gandi Simple hosting via git workflow
 
-## [ghlookup](https://github.com/pforret/ghlookup)
+## [pforret/ghlookup](https://github.com/pforret/ghlookup)
 ![](assets/ghlookup.jpg)]
 
 [![basher install](https://img.shields.io/badge/basher-install-white?logo=gnu-bash&style=flat)](https://basher.gitparade.com/package/)
@@ -55,7 +55,7 @@ Easy fast deploy to Gandi Simple hosting via git workflow
 
 Get info on Github repositories via API in bash CLI 
 
-## [crontask](https://github.com/pforret/crontask)
+## [pforret/crontask](https://github.com/pforret/crontask)
 [![](assets/crontask.jpg)](https://github.com/pforret/crontask)
 
 ![](https://img.shields.io/github/languages/top/pforret/crontask)
@@ -63,7 +63,7 @@ Get info on Github repositories via API in bash CLI
 
 run cron jobs with logging, uptime through healthchecks.io, alerts via zapier
 
-## [networkcheck](https://github.com/pforret/networkcheck)
+## [pforret/networkcheck](https://github.com/pforret/networkcheck)
 [![](assets/networkcheck.jpg)](https://github.com/pforret/networkcheck)
 
 ![](https://img.shields.io/github/languages/top/pforret/networkcheck)
@@ -71,7 +71,7 @@ run cron jobs with logging, uptime through healthchecks.io, alerts via zapier
 
 analyze network connection problems
 	
-## [mrtgobot](https://github.com/pforret/mrtgobot)
+## [pforret/mrtgobot](https://github.com/pforret/mrtgobot)
 [![](assets/mrtgobot.jpg)](https://github.com/pforret/mrtgobot)
 
 ![](https://img.shields.io/github/languages/top/pforret/mrtgobot)
@@ -79,10 +79,8 @@ analyze network connection problems
 
 Easy set-up of a MRTG stat chart server, with easy index/run/sftp sync
 
-# Side projects
-
-## [Toolstud.io](https://toolstud.io)
+## [toolstud.io](https://toolstud.io)
 ![](assets/toolstud_io.jpg)
 
-## [Nuuz.io](https://nuuz.io)
+## [nuuz.io](https://nuuz.io)
 ![](assets/nuuz_io.jpg)
