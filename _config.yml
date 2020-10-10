@@ -1,6 +1,12 @@
-title: Peter Forret
+title: github.com/pforret
+author: Peter Forret
+email: peter@forret.com
+url: https://pforret.github.io
 description: Making sure I can't be replaced by a shell script
 theme: jekyll-theme-minimal
 logo: assets/img/header.jpg
 google_analytics: UA-96827-4
 
+repo: "https://github.com/pforret/pforret.github.io"
+github_user: "pforret"
+github_repo: "pforret.github.io"

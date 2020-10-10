@@ -2,7 +2,6 @@
 title: Peter Forret @ Github
 ---
 # Github Projects
-
 * Do not remove this line (it will not be displayed)
 {:toc}
 
