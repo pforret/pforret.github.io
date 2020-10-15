@@ -5,13 +5,6 @@ title: Peter Forret @ Github
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## [basher.gitparade.com](https://basher.gitparade.com/)
-[![Basher Packages](assets/basher.jpg)](https://basher.gitparade.com/package/)
-
-![](https://img.shields.io/github/v/release/pforret/basher-packages)
-
-Repository of `basher install` compatible packages
-
 ## [pforret/bashew](https://github.com/pforret/bashew)
 ![pforret/bashew](assets/bashew.jpg)
 
@@ -80,6 +73,13 @@ analyze network connection problems
 ![](https://img.shields.io/github/v/release/pforret/mrtgobot)
 
 Easy set-up of a MRTG stat chart server, with easy index/run/sftp sync
+
+## [basher.gitparade.com](https://basher.gitparade.com/)
+[![Basher Packages](assets/basher.jpg)](https://basher.gitparade.com/package/)
+
+![](https://img.shields.io/github/v/release/pforret/basher-packages)
+
+Repository of `basher install` compatible packages
 
 ## [toolstud.io](https://toolstud.io)
 ![](assets/toolstud_io.jpg)
