@@ -65,11 +65,11 @@ Get info on Github repositories via API in bash CLI
 
 run cron jobs with logging, uptime through healthchecks.io, alerts via zapier
 
-## [pforret/networkcheck](https://github.com/pforret/networkcheck)
-[![](assets/networkcheck.jpg)](https://github.com/pforret/networkcheck)
+## [pforret/netcheck](https://github.com/pforret/netcheck)
+[![](assets/netcheck.jpg)](https://github.com/pforret/netcheck)
 
-![](https://img.shields.io/github/languages/top/pforret/networkcheck)
-![](https://img.shields.io/github/v/release/pforret/networkcheck)
+![](https://img.shields.io/github/languages/top/pforret/netcheck)
+![](https://img.shields.io/github/v/release/pforret/netcheck)
 
 analyze network connection problems
 	

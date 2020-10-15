@@ -1,23 +1,28 @@
 #!/bin/bash
-imgsize="-w 1000 -c 500"
-fontfile="-p FiraSansExtraCondensed-SemiBoldItalic.ttf -j 65 -o 15"
-effects="-e dark,median,grain"
+imgsize="-w 1080 -c 540"
+fontfile="-p FiraSansExtraCondensed-SemiBoldItalic.ttf -j 65"
+effects="-e pixel,median,dark,grain"
 splash="created with pforret/splashmark"
 
+one_image(){
+	local output="assets/$2"
+	if [[ ! -f "$output" ]] ; then
+		splashmark $imgsize $fontfile $effects \
+			-3 "$splash" \
+			-i "$1" search "$output" "$3"
+	fi
+}
 
-splashmark $imgsize $fontfile $effects -3 "$splash" -i "pforret/bashew\n\ncreate new bash scripts\nwith excellent boilerplate code" search assets/bashew.jpg nut
-splashmark $imgsize $fontfile $effects -3 "$splash" -i "pforret/crontask\n\ncall script/URL from crontab\nwith logging and health monitor" search assets/crontask.jpg timer
+one_image "pforret/bashew\n\ncreate new bash scripts\nwith excellent boilerplate code" bashew.jpg nut
+one_image "pforret/crontask\n\ncall script/URL from crontab\nwith logging and health monitor" crontask.jpg stopwatch
+one_image "pforret/gandi_deploy\n\neasy git-based deployment\nfor Gandi Simple Hosting" gdeploy.jpg india
+one_image "pforret/ghlookup\n\nget information on Github repos\non the command line" ghlookup.jpg look
+one_image "pforret/mrtgobot\n\neasy monitoring system\nbased on mrtg" mrtgobot.jpg trend
+one_image "pforret/setver\n\nget and set semver versions\nfor php, node, github and bash" setver.jpg update
+one_image "pforret/splashmark\n\nuse Unsplash photos\nwith attribution and markup" splashmark.jpg splash
+one_image "pforret/wpharden\n\nsecure your Wordpress install\nmake it harder to hack" wpharden.jpg blog
+one_image "pforret/netcheck\n\nfind the reason for\nwhy your network is broken" netcheck.jpg router
 
-splashmark $imgsize $fontfile $effects -3 "$splash" -i "pforret/gandi_deploy\n\neasy git-based deployment\nfor Gandi Simple Hosting" search assets/gdeploy.jpg india
-
-splashmark $imgsize $fontfile $effects -3 "$splash" -i "pforret/ghlookup\n\nget information on Github repos\non the command line" search assets/ghlookup.jpg look
-
-splashmark $imgsize $fontfile $effects -3 "$splash" -i "pforret/mrtgobot\n\neasy monitoring system\nbased on mrtg" search assets/mrtgobot.jpg cockpit
-
-splashmark $imgsize $fontfile $effects -3 "$splash" -i "pforret/networkcheck\n\ndiagnose common network problems\nfrom the command line" search assets/networkcheck.jpg router
-splashmark $imgsize $fontfile $effects -3 "$splash" -i "pforret/setver\n\nget and set semver versions\nfor php, node, github and bash" search assets/setver.jpg update
-splashmark $imgsize $fontfile $effects -3 "$splash" -i "pforret/splashmark\n\nuse Unsplash photos\nwith attribution and markup" search assets/splashmark.jpg splash
-
-splashmark $imgsize $fontfile $effects -3 "$splash" -i "toolstud.io\n\nfree, web-based converters\nand calculators" search assets/toolstud_io.jpg hammer
-splashmark $imgsize $fontfile $effects -3 "$splash" -i "basher.gitparade.com\n\nrepository of (bash) scripts\ninstallable with basher install" -1 "https://github.com/pforret/basher-packages" search assets/basher.jpg hit
-splashmark $imgsize $fontfile $effects -3 "$splash" -i "nuuz.io\n\ntrending headlines for tech news" search assets/nuuz_io.jpg article
+one_image "toolstud.io\n\nfree, web-based converters\nand calculators" toolstud_io.jpg hammer
+one_image "basher.gitparade.com\n\nrepository of (bash) scripts\ninstallable with basher install" basher.jpg hit
+one_image "nuuz.io\n\ntrending headlines for tech news" nuuz_io.jpg article
